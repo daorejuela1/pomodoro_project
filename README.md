@@ -1,0 +1,1 @@
+Pomodoro project made using Django & React
